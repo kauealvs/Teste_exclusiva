@@ -67,6 +67,16 @@ body{
     color: white;
 }
 
+.mail-icon{
+    margin-top: 90px;
+    font-size: 600%;
+    display: inline-block;
+    float: right;
+    padding-right: 45%;
+    padding-right: 45%;
+    color: rgb(217, 27, 91);
+}
+
 .locked-icon{
     margin-right: 1%;
     font-size: 200%;
@@ -81,7 +91,7 @@ body{
 
 
 h1{
-    font-size: 110%;
+    font-size: 150%;
     text-align: center;
     font-weight: 400;
 }
@@ -90,8 +100,15 @@ h2{
     font-weight: 200;
 }
 
+h3{
+    font-size: 200%;
+    text-align: center;
+    font-weight: bolder;
+    color: rgba(22, 22, 22, 0.822);
+}
+
 /*------------------------------------------------*/
-/*SECTIONS*/
+/*SECTION COMPRE TRANQUILO*/
 /*------------------------------------------------*/
 
 .section-buy{
@@ -99,6 +116,10 @@ h2{
     color: rgb(219, 101, 140);
     width: 100%;
 }
+
+/*------------------------------------------------*/
+/*SECTION CATEGORIA DE PRODUTOS*/
+/*------------------------------------------------*/
 
 .section-products{
     margin-left: 20px;
@@ -157,3 +178,49 @@ h2{
     padding-top: 10%;
     height: 400px;  
 }
+
+/*------------------------------------------------*/
+/*SECTION NEWSLETTER*/
+/*------------------------------------------------*/
+
+.news{
+    color: rgb(215, 215, 215);
+}
+
+.email{
+   border-color: rgb(235, 235, 235);
+   color: rgb(235, 235, 235);
+   border-radius: 5px;
+   text-align: center;
+   width: 45%;
+   height: 55px;
+   margin-top: 20px;
+   margin-left: 28%;
+   margin-right: 30%;
+}
+
+.name{
+   border-color: rgb(235, 235, 235);
+   color: rgb(235, 235, 235);
+   border-radius: 5px;
+   text-align: center;
+   width: 45%;
+   height: 55px;
+   margin-top: 20px;
+   margin-left: 28%;
+   margin-right: 30%;
+ }
+
+ .submit{
+    border-color: rgb(235, 235, 235);
+    background-color: rgb(100, 30, 86);
+    color: white;
+    border: none    ;
+    border-radius: 5px;
+    text-align: center;
+    width: 45%;
+    height: 55px;
+    margin-top: 20px;
+    margin-left: 28%;
+    margin-right: 30%;
+ }
