@@ -1,0 +1,221 @@
+@media only screen and (max-width: 1200px){
+    
+    h4{
+        margin-left: 38%;
+        margin-right: 38%;
+    }
+}
+
+
+@media only screen and (max-width: 1023px){
+
+    .logo{
+        margin-left: 30%;
+    }
+
+    h4{
+        margin-left: 35%;
+        margin-right: 35%;
+    }
+
+}
+    
+
+@media only screen and (max-width: 767px){
+
+    .logo{
+        margin-left: 20%;
+    }
+
+    .mail-icon{
+        font-size: 500%;
+    }
+
+    .submit{
+        width: 70%;
+        margin-left: 15%;
+        margin-right: 10%;
+    }
+
+    .name{
+        width: 70%;
+        margin-left: 15%;
+        margin-right: 10%;
+    }
+
+    .email{
+        width: 70%;
+        margin-left: 15%;
+        margin-right: 10%;
+    }
+
+    h3{
+        font-size: 150%;
+    }
+
+    h4{
+        font-size: 120%;
+    }
+
+    h5{
+        font-size: 180%;
+        margin-bottom: 2%;
+    }
+
+    .time{
+        font-size: 130%;
+    }
+}
+   
+
+@media only screen and (max-width: 480px){
+        
+    .logo{
+        height: 160%;
+        margin-left: 15%;
+        margin-top: -5%;
+    }
+    
+    .nav-main{
+        float: left;
+        list-style: none;
+        background-color: rgb(100, 30, 86);
+        width: 100%;
+        height: 100px;
+    }
+    
+    .navcon{
+        float: left;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+    
+    .nav-main ul li{
+        display: inline-block;
+        margin-right: 20px;
+        margin-top: 20px;
+        float: right;
+    }
+
+    .big-icon{
+        font-size: 250%;
+        display: block;
+        color: white;
+    }
+
+    h1{
+        font-size: 90%;
+        text-align: center;
+        font-weight: 400;
+    }
+
+    .prod1{
+        height: 170px;
+        margin-bottom: 5%;
+ 
+    }
+
+    .prod2{
+        height: 170px;
+        margin-bottom: 5%;
+ 
+    }
+
+    .prod3{
+        width: 49%;
+        height: 170px;
+        margin-right: 8px;
+    }
+
+    .prod4{
+        width: 49%;
+        height: 170px;
+    }
+
+    .prod5{
+        margin-top: 5%;
+        height: 200px;
+    }
+
+    .mail-icon{
+
+        font-size: 300%;
+    }
+
+    h3{
+        font-size: 110%;
+    }
+
+    h4{
+        font-size: 110%;
+        margin-bottom: 10%;
+        margin-bottom: 60px;
+        margin-left: 30%;
+        margin-right: 25%;
+        padding-top: 1%;
+    }
+    
+    h5{
+        font-size: 110%;
+    }
+
+    .time{
+        font-size: 110%;
+    }
+
+    .submit{
+        width: 70%;
+        margin-left: 15%;
+        margin-right: 10%;
+    }
+
+    .name{
+        width: 70%;
+        margin-left: 15%;
+        margin-right: 10%;
+    }
+
+    .email{
+        width: 70%;
+        margin-left: 15%;
+        margin-right: 10%;
+    }
+
+    @media only screen and (max-width: 375px){
+        h1{
+            font-size: 75%;
+        }
+
+        .logo{
+            height: 190%;
+            margin-left: 10%;
+            margin-top: -5%;
+        }
+
+        .big-icon{
+            font-size: 180%;
+        }
+
+        .nav-main{
+            height: 70px;
+        }
+
+        .prod3{
+            margin-right: 6px;
+        }
+
+        .prod4{
+
+        }
+
+        h4{
+            margin-left: 25%;
+            margin-right: 17%;
+        }
+
+        h3{
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+    }
+}

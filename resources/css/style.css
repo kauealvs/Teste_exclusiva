@@ -14,6 +14,7 @@ body{
     font-size: 20px;
     font-weight: 200;
     text-rendering: optimizeLegibility;
+    overflow-x: hidden;
 }
 
 /*------------------------------------------------*/
@@ -68,7 +69,7 @@ body{
 }
 
 .mail-icon{
-    margin-top: 90px;
+    margin-top: 8%;
     font-size: 600%;
     display: inline-block;
     float: right;
@@ -128,7 +129,7 @@ h3{
 h4{
     font-size: 150%;
     margin-bottom: 60px;
-    margin-left: 40%;
+    margin-left: 38%;
     margin-right: 40%;
     font-weight: 400;
     border-bottom: rgb(113, 59, 103) 4px solid;
