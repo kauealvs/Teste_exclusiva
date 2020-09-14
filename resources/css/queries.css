@@ -24,7 +24,7 @@
 @media only screen and (max-width: 767px){
     .prod4{
         
-        background-size: 380px;
+        background-size: contain;
         
     }
 
@@ -75,11 +75,6 @@
 
 @media only screen and (max-width: 480px){
     
-    .prod4{    
-        background-size: 230px;
-        
-    }
-
     .logo{
         height: 200%;
         margin-left: 25%;
@@ -140,6 +135,8 @@
     .prod4{
         width: 49%;
         height: 170px;
+        background-size: contain;
+
     }
 
     .prod5{
@@ -197,8 +194,7 @@
         }
 
         .prod4{    
-            background-size: 180px;
-            
+            background-size: contain;
         }
 
         .logo{
@@ -225,9 +221,6 @@
             margin-right: 6px;
         }
 
-        .prod4{
-
-        }
 
         h4{
             margin-left: 25%;
