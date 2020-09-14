@@ -239,6 +239,12 @@ h5{
     height: 300px;  
 }
 
+.prod1:hover{
+    opacity: 0.7;
+    transform: scale(1.15);
+    transition: transform 0.5s, opacity 0.5s;
+}
+
 .prod2{
     background-color: rgb(219, 101, 140);
     background-image: url(/resources/img/anel.png);
@@ -246,6 +252,12 @@ h5{
     text-align: center;
     padding-top: 8%;
     height: 300px;  
+}
+
+.prod2:hover{
+    opacity: 0.7;
+    transform: scale(1.15);
+    transition: transform 0.5s, opacity 0.5s;
 }
 
 .prod4{
@@ -258,6 +270,12 @@ h5{
     height: 300px;  
 }
 
+.prod4:hover{
+    opacity: 0.7;
+    transform: scale(1.15);
+    transition: transform 0.5s, opacity 0.5s;
+}
+
 .prod3{
     background-color: rgb(145, 36, 72);
     background-image: url(/resources/img/anal.png   );
@@ -266,6 +284,12 @@ h5{
     text-align: center;
     padding-top: 8%;
     height: 300px;  
+}
+
+.prod3:hover{
+    opacity: 0.7;
+    transform: scale(1.15);
+    transition: transform 0.5s, opacity 0.5s;
 }
 
 .prod5{
@@ -278,6 +302,12 @@ h5{
     text-align: center;
     padding-top: 10%;
     height: 400px;  
+}
+
+.prod5:hover{
+    opacity: 0.7;
+    transform: scale(1.15);
+    transition: transform 0.5s, opacity 0.5s;
 }
 
 /*------------------------------------------------*/
@@ -324,6 +354,10 @@ h5{
     margin-top: 20px;
     margin-left: 28%;
     margin-right: 30%;
+ }
+
+ .submit:hover{
+    background-color: rgb(68, 23, 59);
  }
 
  /*------------------------------------------------*/
